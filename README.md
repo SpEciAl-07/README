@@ -15,9 +15,8 @@
 <table>
 <h3 align="left">GravityBot</h3>
 <a href="https://gravity-bot.com/" target="blank">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1143986052252573817/1292818813275996231/gravity-512px-dark-profile-picture.png?ex=67051ed8&is=6703cd58&hm=543e97f9cace84bc6c4a7f0238cb35e7aa0f3f1a6ef1d7e8ce3074bd13d0adcb&" alt="https://gravity-bot.com/" height="30" width="40" />
+  <img align="center" src="https://cdn.discordapp.com/attachments/1143986052252573817/1292818813275996231/gravity-512px-dark-profile-picture.png?ex=67051ed8&is=6703cd58&hm=543e97f9cace84bc6c4a7f0238cb35e7aa0f3f1a6ef1d7e8ce3074bd13d0adcb&" alt="https://gravity-bot.com/" height="120" width="120" />
 </a>
 </p>
 </table>
  
-https://cdn.discordapp.com/attachments/1143986052252573817/1292818813275996231/gravity-512px-dark-profile-picture.png?ex=67051ed8&is=6703cd58&hm=543e97f9cace84bc6c4a7f0238cb35e7aa0f3f1a6ef1d7e8ce3074bd13d0adcb&
