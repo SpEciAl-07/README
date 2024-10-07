@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SpEcIaL</h1>
-<h3 align="center">Founder of GravityBot\nA professional designer and bot developer, I excel with my unique programming style that sets my bots apart from the rest. I offer all my bots for free, providing users with the opportunity to benefit from my expertise and skills in this field.</h3>
+<h3 align="center">Founder of GravityBot </h3>
+<h4 align="center">A professional designer and bot developer, I excel with my unique programming style that sets my bots apart from the rest. I offer all my bots for free, providing users with the opportunity to benefit from my expertise and skills in this field. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iryodev&label=Profile%20views&color=e7a917&style=flat" alt="ryo" /> </p>
 
